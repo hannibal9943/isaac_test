@@ -1,0 +1,19 @@
+# Scene
+scene_prim_name: Warehouse
+scene_path: "/data/scene/warehouse.usd"
+scene_name: warehouse
+
+# Robot
+robot_prim_name: nova_carter_sensor
+robot_path: "/data/robot/carter/nova_carter_sensor.usd"
+robot_name: carter
+
+# Imu
+imu_sensor_name: "imu_sensor"
+imu_sensor_position: "caster_wheel_left"
+imu_translation: [0, 0, 0]
+
+# Lidar
+lidar_sensor_name: "lidar"
+lidar_sensor_position: "/chassis_link/front_RPLidar/lidar"
+

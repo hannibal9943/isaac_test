@@ -1,0 +1,9 @@
+# Scene
+scene_prim_name: Warehouse
+scene_path: "/data/scene/warehouse.usd"
+scene_name: warehouse
+
+# Robot
+robot_prim_name: nova_carter
+robot_path: "/data/robot/carter/nova_carter.usd"
+robot_name: carter
